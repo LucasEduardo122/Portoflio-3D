@@ -382,6 +382,27 @@ const projects = [
     image: 'https://raw.githubusercontent.com/LucasEduardo122/DevLinks/main/.github/preview.jpg',
     source_code_link: "https://lucaseduardo122.github.io/DevLinks/",
   },
+  {
+    name: "Mini Spotify",
+    description:
+      "Uma mini clone do spotify",
+    tags: [
+      {
+        name: "tailwindcss",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nextjs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://raw.githubusercontent.com/LucasEduardo122/mini-spotify-tailwind/main/.github/spotify.PNG',
+    source_code_link: "https://mini-spotify-tailwind.vercel.app",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
