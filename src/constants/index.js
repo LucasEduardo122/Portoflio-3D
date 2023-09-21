@@ -255,6 +255,133 @@ const projects = [
     image: 'https://media.discordapp.net/attachments/964537774399193158/1116181459389136987/spacetime.png?width=1202&height=656',
     source_code_link: "https://lucaseduardo122.github.io/spacetime",
   },
+
+  {
+    name: "PokeNext",
+    description:
+      "Um mini sistema de pokedex feito em nextjs para exibição de pokemons.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "green-text-gradient",
+      },
+      {
+        name: "api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://media.licdn.com/dms/image/C4D22AQEE6Yn6SDQZgg/feedshare-shrink_800/0/1667340085026?e=2147483647&v=beta&t=FHA5y6Zxvid8ukKJ5Dw7-02vTl08gDecI3Fyou9UMr0',
+    source_code_link: "https://poke-next-olive.vercel.app/",
+  },
+  {
+    name: "The Fit Club",
+    description:
+      "Uma mini landing page de academia usando nextjs.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://raw.githubusercontent.com/LucasEduardo122/academia-fit/main/src/fitclub.png',
+    source_code_link: "https://academia-fit.vercel.app",
+  },
+  {
+    name: "Agenda de contato",
+    description:
+      "Uma mini landing page de agenda de contato com pesquisa.",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://raw.githubusercontent.com/LucasEduardo122/agenda-de-contatos-pesquisa/main/.github/preview.jpg',
+    source_code_link: "https://lucaseduardo122.github.io/agenda-de-contatos-pesquisa/",
+  },
+  {
+    name: "Form card",
+    description:
+      "Uma mini landing page de formulario de cartão",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://raw.githubusercontent.com/LucasEduardo122/simple-form-card/main/.github/preview.jpg',
+    source_code_link: "https://lucaseduardo122.github.io/simple-form-card/",
+  },
+  {
+    name: "Bloco de carnaval",
+    description:
+      "Uma mini template de bloco de carnaval",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://raw.githubusercontent.com/LucasEduardo122/template-bloco-carnaval/main/.github/preview.jpg',
+    source_code_link: "https://lucaseduardo122.github.io/template-bloco-carnaval/",
+  },
+  {
+    name: "Devlinks Rocketseat",
+    description:
+      "Uma mini site devlinks",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: 'https://raw.githubusercontent.com/LucasEduardo122/DevLinks/main/.github/preview.jpg',
+    source_code_link: "https://lucaseduardo122.github.io/DevLinks/",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
