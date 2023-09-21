@@ -343,7 +343,7 @@ const projects = [
   {
     name: "Bloco de carnaval",
     description:
-      "Uma mini template de bloco de carnaval",
+      "Um mini template de bloco de carnaval",
     tags: [
       {
         name: "html",
@@ -364,7 +364,7 @@ const projects = [
   {
     name: "Devlinks Rocketseat",
     description:
-      "Uma mini site devlinks",
+      "Um mini site devlinks",
     tags: [
       {
         name: "html",
@@ -385,7 +385,7 @@ const projects = [
   {
     name: "Mini Spotify",
     description:
-      "Uma mini clone do spotify",
+      "Um mini clone do spotify",
     tags: [
       {
         name: "tailwindcss",
